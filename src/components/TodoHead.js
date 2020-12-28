@@ -7,6 +7,7 @@ const TodoHeadBlock = styled.div`
     padding-left: 32px;
     padding-right: 32px;
     padding-bottom: 24px;
+    /* border-bottom: 1px solid #e9ecef; */
     border-bottom: 1px solid #e9ecef;
 
     h1 {
